@@ -42,13 +42,12 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 
 
 ## Blogsopts you can get well versed with python
-- Planet Python—the go-to Python blog [https://planetpython.org/]
-- Full Stack Python [https://www.fullstackpython.com/blog.html]
-- Mouse vs. Python [http://www.blog.pythonlibrary.org/]
-- Doug Hellmann—run by a prominent Python blogger [https://doughellmann.com/posts/]
-- Real Python—a comprehensive blog [https://realpython.com/]
-- PyBloggers [http://www.pybloggers.com/]
-- TalkPython [https://talkpython.fm/episodes/all]
-- Finxter—a Python programming blog for the forward-thinking crowd [https://blog.finxter.com/blog/]
-- The Python Guru [https://thepythonguru.com/blog/]
-- 
+- [Planet Python—the go-to Python blog](https://planetpython.org/)
+- [Full Stack Python](https://www.fullstackpython.com/blog.html)
+- [Mouse vs. Python](http://www.blog.pythonlibrary.org/)
+- [Doug Hellmann—run by a prominent Python blogger](https://doughellmann.com/posts/)
+- [Real Python—a comprehensive blog](https://realpython.com/)
+- [PyBloggers](http://www.pybloggers.com/)
+- [TalkPython](https://talkpython.fm/episodes/all)
+- [Finxter—a Python programming blog for the forward-thinking crowd](https://blog.finxter.com/blog/)
+- [The Python Guru](https://thepythonguru.com/blog/)
