@@ -41,7 +41,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - David Beazley [https://twitter.com/dabeaz]
 
 
-## Blogsopts you can get well versed with python
+## Blogspots you can get well versed with python
 - [Planet Python—the go-to Python blog](https://planetpython.org/)
 - [Full Stack Python](https://www.fullstackpython.com/blog.html)
 - [Mouse vs. Python](http://www.blog.pythonlibrary.org/)
