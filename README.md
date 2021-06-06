@@ -12,7 +12,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - Spyder
 - Thonny
 - Wing
-<br>
+
 ## Use of Python 
 - Web Developement
 - Game Development 
@@ -24,7 +24,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - CAD Applications
 - Embedded Applications
 - Android Applications
-<br>
+
 ## People to follow on Twitter
 - Guido van Rossum [https://twitter.com/gvanrossum]
 - Ewa Jodlowska [https://twitter.com/ewa_jodlowska?lang=en]
@@ -39,8 +39,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - Raymond Hettinger [https://twitter.com/raymondh]
 - Łukasz Langa [https://twitter.com/llanga]
 - David Beazley [https://twitter.com/dabeaz]
-<br>
 
 
 
-- 
+
