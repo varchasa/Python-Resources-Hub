@@ -80,10 +80,11 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - [CodeSignal](https://codesignal.com/developers/interview-practice/)
 - [Edabit](https://edabit.com/)
 
-
-
-
-
-
-
+## Python books to level up your skills
+- Head-First Python, 2nd edition by Paul Barry
+- Invent Your Own Computer Games with Python, 4th edition by Al Sweigart
+- Think Python: How to Think Like a Computer Scientist, 2nd edition by Allen B. Downey
+- Effective Computation in Physics: Field Guide to Research with Python by Anthony Scopatz, Kathryn D. Huff 
+- Learn Python 3 the Hard Way by Zed A. Shaw
+- Python for Kids: A Playful Introduction to Programming by Jason R. Briggs
 
