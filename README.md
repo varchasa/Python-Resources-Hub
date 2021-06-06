@@ -51,3 +51,39 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - [TalkPython](https://talkpython.fm/episodes/all)
 - [Finxter—a Python programming blog for the forward-thinking crowd](https://blog.finxter.com/blog/)
 - [The Python Guru](https://thepythonguru.com/blog/)
+
+
+## Practise platforms for coding
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [Exercism](https://exercism.io/)
+- [SPOJ](http://www.spoj.com/)
+- [Programmr](http://www.programmr.com/exercises)
+- [TopCoder](https://www.topcoder.com/challenges)
+- [CodeForces](https://codeforces.com/)
+- [CodeWars](https://www.codewars.com/users/sign_in)
+- [CodeChef](https://www.codechef.com/)
+- [CodeGym](https://codegym.cc/)
+- [CodePen](https://codepen.io/)
+- [CodinGame](https://www.codingame.com/start)
+- [LeetCode](https://leetcode.com/problemset/all/)
+- [GeekForGeeks](https://www.geeksforgeeks.org/puzzles/)
+- [ProjectEuler](https://projecteuler.net/archives)
+- [ URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+- [Reply Challenges](https://challenges.reply.com/tamtamy/home.action)
+- [KickStart](https://codingcompetitions.withgoogle.com/kickstart/about)
+- [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+- [Kaggle Learn](https://www.kaggle.com/learn/overview)
+- [SoloLearn](https://www.sololearn.com/)
+- [Geektastic](https://geektastic.com/)
+- [Coding Bat](https://codingbat.com/java)
+- [CodeSignal](https://codesignal.com/developers/interview-practice/)
+- [Edabit](https://edabit.com/)
+
+
+
+
+
+
+
+
