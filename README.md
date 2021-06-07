@@ -1,5 +1,7 @@
 # Python-Resources-Hub
 An Ultimate resource python hub like websites, code, people, practice, etc.
+
+## Table of contents
 1. **[Top 10 Python IDE's](#Top-10-Python-IDE's)**
 2. **[Use of Python](#Use-of-Python)**
 3. **[People to follow on Twitter](#People-to-follow-on-Twitter)**
