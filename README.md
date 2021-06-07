@@ -30,7 +30,6 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - Ewa Jodlowska [https://twitter.com/ewa_jodlowska?lang=en]
 - Reshama Shaikh [https://twitter.com/reshamas]
 - Kevin Goldsmith [https://twitter.com/kevingoldsmith]
-- Jen Walraven
 - Audrey Roy Greenfield [https://twitter.com/audreyfeldroy]
 - Daniel Roy Greenfield [https://twitter.com/pydanny]
 - Tomaz Muraus [https://twitter.com/KamiSLO]
