@@ -88,3 +88,38 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - Learn Python 3 the Hard Way by Zed A. Shaw
 - Python for Kids: A Playful Introduction to Programming by Jason R. Briggs
 
+## Youtube channels for learning python
+- [Al Sweigart](https://www.youtube.com/user/Albert10110/)
+- [Anaconda Inc.](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
+- [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional/)
+- [Christian Thompson’s YouTube channel](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+- [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+- [Corey Schafer’s](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+- [Derek Banas](https://www.youtube.com/user/derekbanas)
+- [Data School](https://www.youtube.com/user/dataschool)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ/)
+- [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/)
+- [PyData](https://www.youtube.com/user/PyDataTV/)
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+- [Sentdex](https://www.youtube.com/user/sentdex)
+- [Socratica](https://www.youtube.com/user/SocraticaStudios/)
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
+- [The New Boston](https://www.youtube.com/user/thenewboston)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
