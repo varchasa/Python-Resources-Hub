@@ -1,5 +1,12 @@
 # Python-Resources-Hub
 An Ultimate resource python hub like websites, code, people, practice, etc.
+1. [Top 10 Python IDE's](#Top 10 Python IDE's)
+2. [Use of Python](#Use of Python)
+3. [People to follow on Twitter](#People to follow on Twitter)
+4. [Blogspots you can get well versed with](#Blogspots you can get well versed with)
+5. [Practise platforms for coding](#Practise platforms for coding)
+6. [Python books to level up your skills](#Python books to level up your skills)
+7. [Youtube channels for learning python](#Youtube channels for learning python)
 
 ## Top 10 Python IDE'S
 - Python IDLE
