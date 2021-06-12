@@ -9,6 +9,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 5. **[Practise platforms for coding](#Practise-platforms-for-coding)**
 6. **[Python books to level up your skills](#Python-books-to-level-up-your-skills)**
 7. **[Youtube channels for learning python](#Youtube-channels-for-learning-python)**
+8. **[Websites to learn Python for free](#Websites-to-learn-Python-for-free)**
 
 ## Top 10 Python IDE'S
 - Python IDLE
@@ -117,11 +118,27 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - [The New Boston](https://www.youtube.com/user/thenewboston)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
-
-
-
-
-
+## Websites to learn Python for free
+- [Google](https://developers.google.com/edu/python/)
+- [CodeCademy](http://bit.ly/2D5vvnV)
+- [Educative](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224)
+- [Coursera](https://www.coursera.org/in)
+- [Microsoft [edX]](https://www.edx.org/)
+- [Python for Everybody](https://www.py4e.com/)
+- [Python Core and Advanced](https://www.udemy.com/course/python-core-and-advanced/)
+- [Learn Python 3.6 for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/)
+- [ Introduction to Computer Science and Programming Using Python](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=787739&ued=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fintroduction-to-computer-science-and-programming-7)
+- [Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)
+- [Computing in Python III: Data Structures](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=787739&ued=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fcomputing-in-python-iii-data-structures)
+- [Python Programming: A Concise Introduction](https://click.linksynergy.com/deeplink?id=XMuWjHlUEYs&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-programming-introduction)
+- [Google Python Class](https://developers.google.com/edu/python/)
+- [CS50’s Introduction to Artificial Intelligence with Python](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=787739&ued=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fcs50s-introduction-to-artificial-intelligence-with-python)
+- [Dive into Python 3](https://diveintopython3.net/)
+- [Python 3 Tutorial Course](https://www.python-course.eu/python3_course.php)
+- [Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Invent with Python](http://inventwithpython.com/)
+- 
 
 
 
