@@ -138,7 +138,6 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - [Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Invent with Python](http://inventwithpython.com/)
-- 
 
 
 
