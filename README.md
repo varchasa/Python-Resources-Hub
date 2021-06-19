@@ -10,7 +10,7 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 6. **[Python books to level up your skills](#Python-books-to-level-up-your-skills)**
 7. **[Youtube channels for learning python](#Youtube-channels-for-learning-python)**
 8. **[Websites to learn Python for free](#Websites-to-learn-Python-for-free)**
-9. **[Companies-that-use-python](#Companies that use python)**
+9. **[Companies that use python](#Companies-that-use-python)**
 
 ## Top 10 Python IDE'S
 - Python IDLE
