@@ -4,13 +4,14 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 ## Table of contents
 1. **[Top 10 Python IDE's](#Top-10-Python-IDE's)**
 2. **[Use of Python](#Use-of-Python)**
-3. **[People to follow on Twitter](#People-to-follow-on-Twitter)**
-4. **[Blogspots you can get well versed with](#Blogspots-you-can-get-well-versed-with-python)**
-5. **[Practise platforms for coding](#Practise-platforms-for-coding)**
-6. **[Python books to level up your skills](#Python-books-to-level-up-your-skills)**
-7. **[Youtube channels for learning python](#Youtube-channels-for-learning-python)**
-8. **[Websites to learn Python for free](#Websites-to-learn-Python-for-free)**
-9. **[Companies that use python](#Companies-that-use-python)**
+3. **[Frameworks of Python](#Frameworks-of-Python)**
+4. **[People to follow on Twitter](#People-to-follow-on-Twitter)**
+5. **[Blogspots you can get well versed with](#Blogspots-you-can-get-well-versed-with-python)**
+6. **[Practise platforms for coding](#Practise-platforms-for-coding)**
+7. **[Python books to level up your skills](#Python-books-to-level-up-your-skills)**
+8. **[Youtube channels for learning python](#Youtube-channels-for-learning-python)**
+9. **[Websites to learn Python for free](#Websites-to-learn-Python-for-free)**
+10. **[Companies that use python](#Companies-that-use-python)**
 
 ## Top 10 Python IDE'S
 - Python IDLE
@@ -35,6 +36,17 @@ An Ultimate resource python hub like websites, code, people, practice, etc.
 - CAD Applications
 - Embedded Applications
 - Android Applications
+
+## Frameworks of Python
+- Django
+- Flask
+- Pyramid
+- Bottle 
+- TurboGears
+- Web2Py
+- CheeryPy
+- Dash
+- Tornado
 
 ## People to follow on Twitter
 - Guido van Rossum [https://twitter.com/gvanrossum]
